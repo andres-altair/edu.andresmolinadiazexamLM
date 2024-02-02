@@ -1,0 +1,44 @@
+@charset "UTF-8";
+.head1{
+	background-color: pink;
+	color: skyblue;
+	size: 3rem;
+	margin-top: 0%;
+	padding: 3rem;
+	
+	
+	text-align: center;
+}
+.fotoIn1{
+	border-radius: 100%;
+	transform: scale(1.5);
+	transform: translateY(-13.5rem);
+}
+.nav1{
+	background-color: orange;
+	text-align: center;
+	border: red dashed;
+	padding: 1rem;
+	transform: translateY(-10rem);
+	font-style: unset;
+}
+.main1{
+	background-color: yellow;
+	transform: translateY(-10rem);
+}
+.borde{
+	border: solid skyblue;
+	
+}
+.negro{
+	font-weight: bold;
+}
+.grande{
+	font-size: 1rem;
+}
+.foot{
+	background-color: orangered;
+	text-align: center;
+	transform: translateY(-10rem);
+
+}

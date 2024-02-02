@@ -1,0 +1,66 @@
+@charset "UTF-8";
+.head{
+	background-color: pink;
+	color: skyblue;
+	size: 3rem;
+	margin-top: 0%;
+	padding: 3rem;
+	
+	
+	text-align: center;
+}
+.fotoIn{
+	border-radius: 100%;
+
+	transform: translateY(-13.5rem);
+}
+.nav{
+	background-color: orange;
+	text-align: center;
+	border: red dashed;
+	padding: 1rem;
+	transform: translateY(-10rem);
+}
+.cua{
+	border: white 3px;
+	text-align: center;
+	color: white;
+	text-decoration: none;
+}
+.main{
+	background-color: yellow;
+	transform: translateY(-12rem);
+}
+.titApar{
+	text-align: center;
+	font-size: 2rem;
+	
+}
+.hr{
+	color: navy;
+	background-color: navy;
+	height: 5px;
+}
+.titApar2{
+	text-align: center;
+	font-size: 2rem;
+	margin-top: 2rem;
+	margin-bottom: 10px;
+}
+.parrafo{
+	display: block;
+	width: 35%;
+}
+.video{
+	clear: both;
+}
+.parrafo2{
+	display: block;
+	width: 35%;
+}
+.foot{
+	background-color: orangered;
+	text-align: center;
+	transform: translateY(-13rem);
+
+}
